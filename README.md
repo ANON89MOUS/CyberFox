@@ -1,6 +1,4 @@
-<h1>CyberFox</h1>
-
-<h1 align="center">
+<h1 align="center">CyberFox
   <br>
   <a href="https://github.com/ANON89MOUS/CyberFox">
 
